@@ -1,20 +1,20 @@
 WEIGHT_URLS = {
     'buffalo_l':
-    'https://github.com/justld/dofaker/releases/download/v0.1/buffalo_l.zip',
+    'https://github.com/rsaurav12/dofaker/releases/download/v0.1/buffalo_l.zip',
     'buffalo_s':
-    'https://github.com/justld/dofaker/releases/download/v0.1/buffalo_s.zip',
+    'https://github.com/rsaurav12/dofaker/releases/download/v0.1/buffalo_s.zip',
     'buffalo_sc':
-    'https://github.com/justld/dofaker/releases/download/v0.1/buffalo_sc.zip',
+    'https://github.com/rsaurav12/dofaker/releases/download/v0.1/buffalo_sc.zip',
     'inswapper':
-    'https://github.com/justld/dofaker/releases/download/v0.1/inswapper_128.onnx',
+    'https://github.com/rsaurav12/dofaker/releases/download/v0.1/inswapper_128.onnx',
     'gfpgan':
-    'https://github.com/justld/dofaker/releases/download/v0.1/GFPGANv1.3.onnx',
+    'https://github.com/rsaurav12/dofaker/releases/download/v0.1/GFPGANv1.3.onnx',
     'bsrgan':
-    'https://github.com/justld/dofaker/releases/download/v0.1/bsrgan_4.onnx',
+    'https://github.com/rsaurav12/dofaker/releases/download/v0.1/bsrgan_4.onnx',
     'openpose_body':
-    'https://github.com/justld/dofaker/releases/download/v0.1/openpose_body.onnx',
+    'https://github.com/rsaurav12/dofaker/releases/download/v0.1/openpose_body.onnx',
     'pose_transfer':
-    'https://github.com/justld/dofaker/releases/download/v0.1/pose_transfer.onnx',
+    'https://github.com/rsaurav12/dofaker/releases/download/v0.1/pose_transfer.onnx',
 }
 
 
